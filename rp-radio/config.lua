@@ -29,8 +29,8 @@ radioConfig = {
             Pressed = false,
         },
         Broadcast = {
-            Name = "INPUT_VEH_PUSHBIKE_SPRINT", -- Control name
-            Key = 137, -- Caps Lock
+            Name = "INPUT_CHARACTER_WHEEL", -- Control name
+            Key = 19, -- Left Alt Lock
         },
         ToggleClicks = { -- Toggle radio click sounds
             Name = "INPUT_SELECT_WEAPON", -- Control name
